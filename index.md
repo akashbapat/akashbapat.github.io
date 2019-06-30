@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Akash Bapat | Computer Vision Researcher
 
-You can use the [editor on GitHub](https://github.com/akashbapat/akashbapat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Akash Bapat.
+I am a Ph.D student in the computer science department of UNC Chapel Hill advised by <a href="http://frahm.web.unc.edu/">Jan-Michael Frahm</a>.
+My interests are computer vision and augmented and virtual reality.
+My research interests can be traced to my <a href="http://www.iitgn.ac.in/">IITGN</a> days where I worked with Prof. <a href="http://www.iitgn.ac.in/faculty/electrical/shanmuganathan.htm">Raman</a>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akashbapat/akashbapat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Recent News
+1. Joining Facebook mid-August.
+2. Recently, I defended my Ph.D thesis. YAY!!!
