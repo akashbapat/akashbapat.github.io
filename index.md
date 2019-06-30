@@ -1,5 +1,4 @@
-# Akash Bapat | Computer Vision Researcher
-
+# Akash Bapat | Computer Vision
 Hi, my name is Akash Bapat.
 I am a Ph.D student in the computer science department of UNC Chapel Hill advised by <a href="http://frahm.web.unc.edu/">Jan-Michael Frahm</a>.
 My interests are computer vision and augmented and virtual reality.
