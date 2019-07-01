@@ -1,4 +1,4 @@
-#Akash Bapat | Computer Vision
+## Akash Bapat | Computer Vision
 Hi, my name is Akash Bapat.
 I am a Ph.D student in the computer science department of UNC Chapel Hill 
 advised by <a href="http://frahm.web.unc.edu/">Jan-Michael Frahm</a>.
@@ -13,8 +13,9 @@ Raman</a>.
 2. Recently, I defended my Ph.D thesis. YAY!!!
 
 ## Papers
+<table style="width:100%">
 <tr onmouseout="dts_stop()" onmouseover="dts_start()">
-  <td style="padding:20px;width:25%;vertical-align:middle">
+  <td style="padding:20px;width:40%;vertical-align:middle">
     <div id='dts_anim' class='hidden'><img src="assets/img/dts/dts_example_result.gif"></div>
     <div id='dts_still'><img src="assets/img/dts/example_marked.png"></div>
     <script type="text/javascript">
@@ -30,15 +31,16 @@ Raman</a>.
       dts_stop()
     </script>
   </td>
-  <td style = "padding:20px;width:75%;vertical-align:middle">
+  <td width="60%" valign="middle">
     <a href = "https://github.com/akashbapat/domain_transform_solver/blob/master/paper/dts_solver.pdf">
-      <papertitle> The Domain Transform Solver</papertitle>
+      <strong>The Domain Transform Solver</strong>
     </a>
     <br>
-    <strong> AkashBapat</strong>
-    <a href = "http://frahm.web.unc.edu/"> Jan-Michael Frahm</a>
+    <strong>Akash Bapat</strong> and
+    <a href = "http://frahm.web.unc.edu/">Jan-Michael Frahm</a>
     <br>
-    <em> CVPR</em>,2019 <br>
+    <em>CVPR</em>, 2019
+    <br>
     <a href = "https://arxiv.org/abs/1805.04590"> arxiv</a> /
     <a href = "https://github.com/akashbapat/domain_transform_solver">
     code</a> /
@@ -47,4 +49,5 @@ Raman</a>.
     <p> Fast edge-aware optimization can be done by using approximate 1-D filtering techniques.
     </p>
   </td>
-<tr>
+</tr>
+</table>
