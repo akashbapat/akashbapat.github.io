@@ -9,8 +9,9 @@ IITGN</a> days where I worked with Prof.
 Raman</a>.
 
 ## Recent News
-1. Joining Facebook mid-August.
-2. Recently, I defended my Ph.D thesis. YAY!!!
+* Patent accepted <a href="https://patents.google.com/patent/US10410372B1/">US10410372B1</a>
+* Joining Facebook mid-August.
+* Recently, I defended my Ph.D thesis. YAY!!!
 
 ## Papers
 <table style="width:100%">
