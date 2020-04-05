@@ -18,7 +18,7 @@ Raman</a>.
 <!---------------------------------------------------------------------------->
 <tr onmouseout="building_sat_recon_stop()" onmouseover="building_sat_recon_start()">
   <td style="padding:20px;width:40%;vertical-align:middle">
-    <div id='building_recon_front'><img src="assets/img/building_sat_recon/sat_image.jpg"></div>
+    <div id='building_sat_recon_front'><img src="assets/img/building_sat_recon/sat_image.jpg"></div>
     <div id='building_sat_recon_back'><img src="assets/img/building_sat_recon/reconstruction.jpg"></div>
     <script type="text/javascript">
       function building_sat_recon_start() {
