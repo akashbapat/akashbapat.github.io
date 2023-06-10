@@ -1,20 +1,61 @@
 ## Akash Bapat | Computer Vision
 Hi, my name is Akash Bapat.
-I am a Ph.D student in the computer science department of UNC Chapel Hill
+I am a Research Scientist and I work in the field of Augmented and Virtual Reality at Meta Inc.
+Previously, I completed my Ph.D from the computer science department of UNC Chapel Hill and was
 advised by <a href="http://frahm.web.unc.edu/">Jan-Michael Frahm</a>.
-My interests are computer vision and augmented and virtual reality.
 My research interests can be traced to my <a href="http://www.iitgn.ac.in/">
 IITGN</a> days where I worked with Prof.
 <a href="http://www.iitgn.ac.in/faculty/electrical/shanmuganathan.htm">
 Raman</a>.
 
 ## Recent News
-* Patent accepted <a href="https://patents.google.com/patent/US10410372B1/">US10410372B1</a>
-* Joining Facebook mid-August.
-* Recently, I defended my Ph.D thesis. YAY!!!
+* Our paper on stereo system for smart glasses was accepted at CVPR 20223, see <a href="https://arxiv.org/abs/2211.10551">arxiv</a>
 
 ## Papers
 <table style="width:100%">
+<!---------------------------------------------------------------------------->
+<tr>
+  <td style="padding:20px;width:40%;vertical-align:middle">
+    <div id='argos_still'><img src="assets/img/argos/overview.jpg"></div>
+  </td>
+  <td width="60%" valign="middle">
+    <a href = "https://arxiv.org/abs/2211.10551">
+      <strong>A Practical Stereo Depth System for Smart Glasses</strong>
+    </a>
+    <br>
+    <a>Jialiang Wang</a>,
+    <a>Daniel Scharstein</a>,
+    <strong>Akash Bapat</strong>, and
+    <a>many other people</a>
+    <br>
+    To appear in <em>CVPR</em>, 2023
+    <br>
+    <a href = "assets/bib/wang2023practical.bib">bibtex</a>
+    <p></p>
+    <p> End to end stereo ML system for smart glasses.
+    </p>
+  </td>
+</tr>
+<!---------------------------------------------------------------------------->
+<tr>
+  <td style="padding:20px;width:40%;vertical-align:middle">
+    <div id='thesis_still'></div>
+  </td>
+  <td width="60%" valign="middle">
+    <a href = "https://github.com/akashbapat/akashbapat.github.io/blob/master/assets/pdf/thesis/thesis_small.pdf">
+      <strong>Thesis: Towards High-Frequency Tracking and Fast Edge-Aware Optimization</strong>
+    </a>
+    <br>
+    <strong>Akash Bapat</strong>
+    <br>
+    UNC Chapel Hill Doctoral Thesis.
+    <br>
+    <a href = "assets/bib/bapat2019towards.bib">bibtex</a>
+    <p></p>
+    <p> My thesis covering my work on rolling shutter tracking and edge aware optimization.
+    </p>
+  </td>
+</tr>
 <!---------------------------------------------------------------------------->
 <tr onmouseout="building_sat_recon_stop()" onmouseover="building_sat_recon_start()">
   <td style="padding:20px;width:40%;vertical-align:middle">
