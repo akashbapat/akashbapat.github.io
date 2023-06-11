@@ -84,7 +84,7 @@ Raman</a>.
     <strong>Akash Bapat</strong>, and
     <a href = "http://frahm.web.unc.edu/">Jan-Michael Frahm</a>
     <br>
-    To appear in <em>CVPR</em>, 2020
+    Appeared in <em>CVPR</em>, 2020
     <br>
     <a href = "assets/bib/mahmud2020boundary.bib">bibtex</a>
     <p></p>
