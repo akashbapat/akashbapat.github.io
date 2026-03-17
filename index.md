@@ -9,10 +9,38 @@ IITGN</a> days where I worked with Prof.
 Raman</a>.
 
 ## Recent News
-* Our paper on stereo system for smart glasses was accepted at CVPR 20223, see <a href="https://arxiv.org/abs/2211.10551">arxiv</a>
+* [March 2026] Our paper on large-scale multi-view video dataset for egocentric vision is accepted at CVPR 2026, see <a href="https://arxiv.org/abs/2603.13741">arxiv</a>
+* [Sept 2025] I am excited to share that my 3D reconstruction work is launching in the form of Hyperscape this Connect, see the <a href="https://www.meta.com/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/">post</a> and <a href="https://youtu.be/zJ4pjwIPiRk?si=A--7X504zK-dgUxL">video</a>.
+
+
+ 
+
 
 ## Papers
 <table style="width:100%">
+<!---------------------------------------------------------------------------->
+<tr>
+  <td style="padding:20px;width:40%;vertical-align:middle">
+    <div id='argos_still'><img src="assets/img/ego1k/overview.jpg"></div>
+  </td>
+  <td width="60%" valign="middle">
+    <a href = "https://arxiv.org/abs/2603.13741">
+      <strong>Ego-1K -- A Large-Scale Multiview Video Dataset for Egocentric Vision</strong>
+    </a>
+    <br>
+    <a>Jae Yong Lee</a>,
+    <a>Daniel Scharstein</a>,
+    <strong>Akash Bapat</strong>, and
+    <a>many other people</a>
+    <br>
+    To appear in <em>CVPR</em>, 2026
+    <br>
+    <a href = "assets/bib/lee2026ego1klargescalemultiview.bib">bibtex</a>
+    <p></p>
+    <p> A large-scale collection of time-synchronized egocentric multiview videos designed to advance neural 3D video synthesis, stereo and dynamic scene understanding.
+    </p>
+  </td>
+</tr>
 <!---------------------------------------------------------------------------->
 <tr>
   <td style="padding:20px;width:40%;vertical-align:middle">
